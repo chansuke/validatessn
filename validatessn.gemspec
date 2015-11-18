@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Validate Your Social Security Number}
   spec.description   = %q{Validate Your Social Security Number}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/chansuke/validatessn"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
