@@ -4,6 +4,9 @@ Welcome to your new gem! In this directory, you'll find the files you need to be
 
 TODO: Delete this and the text above, and describe your gem
 
+## Version
+[![Gem Version](https://badge.fury.io/rb/validatessn.svg)](https://badge.fury.io/rb/validatessn)
+
 ## Installation
 
 Add this line to your application's Gemfile:
